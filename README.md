@@ -3,23 +3,29 @@ This is a growing collection of my custom tasks designed for the ARC challenge, 
 
 ## List of tasks
 
-    001 - Labirynth
-    002 - Portal
-    003 - Tic Tac Toe
-    004 - Breakout
-    005 - Sudoku
-    006 - Tetromino Puzzle
-    007 - Match 3
-    008 - Math
-    009 - Spot The Difference
-    010 - Railway
-    011 - Falling Sand
-    012 - Flappy Bird
-    013 - Match Fou
-    014 - Match 5
-    015 - Find Pairs
-    016 - Mikado
-    017 - Look And Find
-    018 - Connect The Dots
-    019 - Coloring Book
-    020 - Puzzle
+
+|  #  | Title | Train | Test |
+| --- | ----- | ----- | ---- |
+| 001 | Labirynth | 2 | 1 |
+| 002 | Portal | 4 | 1 |
+| 003 | Tic Tac Toe | 3 | 1 |
+| 004 | Breakout | 2 | 1 |
+| 005 | Sudoku | 2 | 1 |
+| 006 | Tetromino Puzzle | 3 | 1 |
+| 007 | Match 3 | 5 | 2 |
+| 008 | Math | 4 | 2 |
+| 009 | Spot The Difference | 2 | 1 |
+| 010 | Railway | 2 | 1 |
+| 011 | Falling Sand | 2 | 1 |
+| 012 | Flappy Bird | 3 | 1 |
+| 013 | Match Four | 3 | 2 |
+| 014 | Match 5 | 5 | 2 |
+| 015 | Find Pairs | 3 | 2 |
+| 016 | Mikado | 3 | 2 |
+| 017 | Look And Find | 3 | 2 |
+| 018 | Connect The Dots | 3 | 1 |
+| 019 | Coloring Book | 2 | 1 |
+| 020 | Puzzle | 3 | 1 |
+| 021 | Laser Mirrors | 3 | 1 |
+| 022 | Balance The Scale | 3 | 2 |
+| 023 | Shape Puzzle | 3 | 1 |
