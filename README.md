@@ -38,3 +38,41 @@ This is a growing collection of my custom tasks designed for the ARC challenge, 
 | [031](./031.json) | Slot Machine         | 6     | 3    | ![031 - Slot Machine](./img/031.png)         |
 | [032](./032.json) | Space Invaders       | 4     | 2    | ![032 - Space Invaders](./img/032.png)       |
 | [033](./033.json) | Lemmings             | 4     | 3    | ![033 - Lemmings](./img/033.png)             |
+
+### Text descriptions
+
+| #                 | Title                | Description |
+| ----------------- | -------------------- | ----------- |
+| [001](./001.json) | Labirynth            | Find the shortest path between red and blue, and mark it with green. |
+| [002](./002.json) | Portal               | Follow the path of the green dot falling trough the blue and orange portals. |
+| [003](./003.json) | Tic Tac Toe          | Find the winning move for the blue player and highlight the 3 in a row with green. |
+| [004](./004.json) | Breakout             | Purple marks the launch direction of the ball. Follow its path, remove the bricks on the way, and change direction on every hit, including the sides. Mark where the ball finally hit the bottom with red. |
+| [005](./005.json) | Sudoku               | Place the available colors so that every row, column, and region has only one of each. |
+| [006](./006.json) | Tetromino Puzzle     | Put the available pieces into a perfect rectangle. No rotation. |
+| [007](./007.json) | Match 3              | Delete each sign except the ones where 3 is in a row, column, or diagonal. |
+| [008](./008.json) | Math                 | Add or subtract the number of dots and put your answer with red in the place of the gray are, following the pattern. |
+| [009](./009.json) | Spot The Difference  | Compare the imags. On the rightg one, recolor every object to gray that chanegd position. |
+| [010](./010.json) | Railway              | Put the needed rail pieces into position so that the two stations are connected. |
+| [011](./011.json) | Falling Sand         | Follow the path of the colored sand grains. They stack on the ground (gray) and each other, but also spread when a column is higher than one. |
+| [012](./012.json) | Flappy Bird          | The bird is yellow, and the pipes are green. Place the required inputs (up or down) in order to holes at the bottom (top red pixel for up, bottom blue pixel for down) so that the bird can move across the pipes. Shift the screen to the left 2 units, and move the bird to the end, one pixel higher from where it started. |
+| [013](./013.json) | Match Four           | Find the winning move, and place a red or blue in the top row so that it falls to the right place. Highlight the 4 in a row with green. |
+| [014](./014.json) | Match 5              | Remove every 5 in a row, then apply gravity to the remaining pixels. Repeat until all match are removed. |
+| [015](./015.json) | Find Pairs           | Remove all unique symbols. |
+| [016](./016.json) | Mikado               | Draw a single horizontal strip of colors (left to right) in the right order to remove the sticks from the pile. |
+| [017](./017.json) | Look And Find        | Find and remove the highlighted pixel formation from ne noisy image. |
+| [018](./018.json) | Connect The Dots     | Connect the dots with horizontal, vertical or diagonal lines in the order of the colors. The last color connects back to the first if possible. |
+| [019](./019.json) | Coloring Book        | Color each region based on the gray sign on them. The meaning of the signs are shown in a separate are. Color gray the ones that are absent from the image. |
+| [020](./020.json) | Puzzle               | Place the puzzle pieces to fill in the missing areas. |
+| [021](./021.json) | Laser Mirrors        | Rotate the blue mirrors in 90 degrees so that the red laser ends up in the green catcher. Mark green the mirrors which you adjusted, and update the path of the laser. |
+| [022](./022.json) | Balance The Scale    | Move the blocks so that both sides of the scale have the same weight. |
+| [023](./023.json) | Shape Puzzle         | Place the pieces into the gray shadow so that it is completely filled. Leave the unused pieces in their original position, |
+| [024](./024.json) | Sand And Water       | Orange is sand, blue is water, and gray is concrete. Water flows, sand sinks and piles. Follow the path of them and draw the final state. |
+| [025](./025.json) | Connect Colors       | Connect the squares with the same color, witout lines crossing a gray area or each other. Always use the shortest path and turn as few times as possible. |
+| [026](./026.json) | Highway Crossing     | Place a green pixel to the gray triplets to help the frog cross the highway upwards. Place it left for moving left, center to only move forward, and right to move right. |
+| [027](./027.json) | Board Game           | Move with the blue dot towards the green goal as many places as shown on the dice. If you end up in the goal, color change its color to blue. |
+| [028](./028.json) | Ordering             | Reorder the dices from left to right in icreasing order of value. |
+| [029](./029.json) | Continue The Pattern | Continue the shown patterns to fill the whole image. |
+| [030](./030.json) | Snakes And Ladders   | Green lines move you down, brown ones move up. Follow the path of both the red and blue players and place them where they end up. |
+| [031](./031.json) | Slot Machine         | Change the color of the gray pixels to green where 3 of a row of signs is present, and remove the others. |
+| [032](./032.json) | Space Invaders       | Follow the path of the yellow bullets upward, and remove the orange aliens along with the bullet if they are hit. Move the blue spaceship 2 pixels in the direction in which it should move based on the pattern of the bullets. If the pattern is straight, at the start it means that the ship has not moved recently. Show in the bottom left corner with a column of green pixels how much aliens was eliminated. |
+| [033](./033.json) | Lemmings             | The Lemmings are coming from the red pixel and start moving to the right until they hit something. If they fall down and hit the gray line they die. Place the Lemmings from the bottom row to the playfield to help others reach the green goal. LIGHTBLUE must be placed in the air as soon as possible to give parachute to other Lemmings so they can fall from high without problem. BROWN acts like a wall, hitting it from the side will reverse the direcgtion, but it can act like ground too. YELLOW will dig a hole underneath himself, and PINK will dig a hole in the horizontal direction. |
