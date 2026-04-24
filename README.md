@@ -36,3 +36,5 @@ This is a growing collection of my custom tasks designed for the ARC challenge, 
 | [029](./029.json) | Continue The Pattern | 5     | 2    | ![029 - Continue The Pattern](./img/029.png) |
 | [030](./030.json) | Snakes And Ladders   | 5     | 2    | ![030 - Snakes And Ladders](./img/030.png)   |
 | [031](./031.json) | Slot Machine         | 6     | 3    | ![031 - Slot Machine](./img/031.png)         |
+| [032](./032.json) | Space Invaders       | 4     | 2    | ![032 - Space Invaders](./img/032.png)       |
+| [033](./033.json) | Lemmings             | 4     | 3    | ![033 - Lemmings](./img/033.png)             |
