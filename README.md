@@ -5,7 +5,7 @@ This is a growing collection of my custom tasks designed for the ARC challenge, 
 
 | #                 | Title                | Train | Test | Preview                                      |
 | ----------------- | -------------------- | ----- | ---- | -------------------------------------------- |
-| [001](./001.json) | Labirynth            | 4     | 2    | ![001 - Labirynth](./img/001.png)            |
+| [001](./001.json) | Labyrinth            | 4     | 2    | ![001 - Labyrinth](./img/001.png)            |
 | [002](./002.json) | Portal               | 5     | 3    | ![002 - Portal](./img/002.png)               |
 | [003](./003.json) | Tic Tac Toe          | 3     | 2    | ![003 - Tic Tac Toe](./img/003.png)          |
 | [004](./004.json) | Breakout             | 4     | 2    | ![004 - Breakout](./img/004.png)             |
@@ -43,7 +43,7 @@ This is a growing collection of my custom tasks designed for the ARC challenge, 
 
 | #                 | Title                | Description |
 | ----------------- | -------------------- | ----------- |
-| [001](./001.json) | Labirynth            | Find the shortest path between red and blue, and mark it with green. |
+| [001](./001.json) | Labyrinth            | Find the shortest path between red and blue, and mark it with green. |
 | [002](./002.json) | Portal               | Follow the path of the green dot falling trough the blue and orange portals. |
 | [003](./003.json) | Tic Tac Toe          | Find the winning move for the blue player and highlight the 3 in a row with green. |
 | [004](./004.json) | Breakout             | Purple marks the launch direction of the ball. Follow its path, remove the bricks on the way, and change direction on every hit, including the sides. Mark where the ball finally hit the bottom with red. |
